@@ -1,7 +1,7 @@
 
 .. include:: ../../common/global.rst
 
-.. contents::
+.. contents:: :depth: 1
 
 Configuration split
 ===================
