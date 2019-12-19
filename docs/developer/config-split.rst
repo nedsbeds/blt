@@ -1,6 +1,8 @@
 
 .. include:: ../../common/global.rst
 
+.. contents::
+
 Configuration split
 ===================
 
